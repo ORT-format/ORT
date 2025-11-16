@@ -12,7 +12,7 @@ Unlike inefficient human-readable data structures, ORT efficiently represents da
 - [Package Links](#package-links)
 - [License](#license)
 
----
+<br>
 
 ## Why ORT
 
@@ -63,7 +63,7 @@ users:id,profile(name,age,address(city,country)):
 ```
 > 110 Characters / 35 Tokens
 
----
+<br>
 
 ## When Not to Use ORT
 
@@ -72,7 +72,7 @@ ORT is not always the optimal choice. Consider using JSON in the following scena
 - **Non-uniform data structures**: ORT operates efficiently and reliably with uniform data structures. For heterogeneous data, JSON is more efficient and prevents data loss.
 - **Direct application data files**: ORT is not optimized for direct input/output operations. Since ORT specializes in data transformation and processing, using JSON for application data files offers better compatibility and stability.
 
----
+<br>
 
 ## Command-Line Tools
 
@@ -88,7 +88,7 @@ ort2json <input_file> -o <output_file>
 json2ort <input_file> -o <output_file>
 ```
 
----
+<br>
 
 ## Installation
 
@@ -111,13 +111,13 @@ npm i ort-ts
 pip install ort-python
 ```
 
----
+<br>
 
 ## Package Links
 - PyPI: https://pypi.org/project/ort-python/
 - npm: https://www.npmjs.com/package/ort-ts
 
----
+<br>
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
