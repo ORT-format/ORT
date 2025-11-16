@@ -1,11 +1,11 @@
 {
   "name": "ort-ts",
-  "version": "0.2.0",
+  "version": "0.2.5",
   "description": "Object Record Table - a CSV like structured data format with native object and array support.",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "typescript/dist/index.js",
+  "types": "typescript/dist/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "cd typescript && tsc"
   },
   "keywords": [
     "ort",
@@ -21,8 +21,8 @@
     "typescript": "^5.0.0"
   },
   "files": [
-    "dist",
-    "../README.md"
+    "typescript/dist",
+    "README.md"
   ],
   "repository": {
     "type": "git",
