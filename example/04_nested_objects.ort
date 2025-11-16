@@ -1,0 +1,30 @@
+users:id,profile(name,age,address(city,country)):
+1,(John Doe,30,(New York,USA))
+2,(Jane Smith,25,(London,UK))
+
+# {
+#     "users": [
+#         {
+#             "id": 1,
+#             "profile": {
+#                 "name": "John Doe",
+#                 "age": 30,
+#                 "address": {
+#                     "city": "New York",
+#                     "country": "USA"
+#                 }
+#             }
+#         },
+#         {
+#             "id": 2,
+#             "profile": {
+#                 "name": "Jane Smith",
+#                 "age": 25,
+#                 "address": {
+#                     "city": "London",
+#                     "country": "UK"
+#                 }
+#             }
+#         }
+#     ]
+# }

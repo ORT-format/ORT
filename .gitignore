@@ -42,7 +42,3 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
-
-# Test artifacts
-*.ort
-temp_*.ort

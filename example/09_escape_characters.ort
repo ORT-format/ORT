@@ -1,0 +1,26 @@
+messages:id,text:
+1,\(Hello\, World!\)
+2,Price: $99\,99
+3,Use backslash: \\
+4,Array syntax: \[1\,2\,3\]
+
+# {
+#     "messages": [
+#         {
+#             "id": 1,
+#             "text": "(Hello, World!)"
+#         },
+#         {
+#             "id": 2,
+#             "text": "Price: $99,99"
+#         },
+#         {
+#             "id": 3,
+#             "text": "Use backslash: \\"
+#         },
+#         {
+#             "id": 4,
+#             "text": "Array syntax: [1,2,3]"
+#         }
+#     ]
+# }

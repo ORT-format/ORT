@@ -1,0 +1,38 @@
+products:id,name,price:
+101,Laptop,999.99
+102,Mouse,29.99
+103,Keyboard,79.99
+
+categories:id,name:
+1,Electronics
+2,Accessories
+
+# {
+#     "products": [
+#         {
+#             "id": 101,
+#             "name": "Laptop",
+#             "price": 999.99
+#         },
+#         {
+#             "id": 102,
+#             "name": "Mouse",
+#             "price": 29.99
+#         },
+#         {
+#             "id": 103,
+#             "name": "Keyboard",
+#             "price": 79.99
+#         }
+#     ],
+#     "categories": [
+#         {
+#             "id": 1,
+#             "name": "Electronics"
+#         },
+#         {
+#             "id": 2,
+#             "name": "Accessories"
+#         }
+#     ]
+# }

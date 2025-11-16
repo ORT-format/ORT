@@ -1,0 +1,9 @@
+:id,name,email,active:
+1001,Alice Williams,alice@example.com,true
+
+# {
+#     "id": 1001,
+#     "name": "Alice Williams",
+#     "email": "alice@example.com",
+#     "active": true
+# }

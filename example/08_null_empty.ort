@@ -1,0 +1,30 @@
+records:id,name,email,tags:
+1,John Doe,,[]
+2,Jane Smith,jane@example.com,()
+3,Bob,bob@example.com,[admin,user]
+
+# {
+#     "records": [
+#         {
+#             "id": 1,
+#             "name": "John Doe",
+#             "email": null,
+#             "tags": []
+#         },
+#         {
+#             "id": 2,
+#             "name": "Jane Smith",
+#             "email": "jane@example.com",
+#             "tags": {}
+#         },
+#         {
+#             "id": 3,
+#             "name": "Bob",
+#             "email": "bob@example.com",
+#             "tags": [
+#                 "admin",
+#                 "user"
+#             ]
+#         }
+#     ]
+# }

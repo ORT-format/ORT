@@ -1,0 +1,27 @@
+settings:id,feature,enabled,verified:
+1,notifications,true,false
+2,dark_mode,false,true
+3,auto_save,true,true
+
+# {
+#     "settings": [
+#         {
+#             "id": 1,
+#             "feature": "notifications",
+#             "enabled": true,
+#             "verified": false
+#         },
+#         {
+#             "id": 2,
+#             "feature": "dark_mode",
+#             "enabled": false,
+#             "verified": true
+#         },
+#         {
+#             "id": 3,
+#             "feature": "auto_save",
+#             "enabled": true,
+#             "verified": true
+#         }
+#     ]
+# }
