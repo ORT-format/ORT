@@ -1,7 +1,13 @@
 # Object Record Table (ORT)
 
 ORT is a CSV-like structured data format with native support for objects and arrays.  
-Unlike inefficient human-readable data structures, ORT efficiently represents data, making it ideal for large language model (LLM) token optimization and structured data interchange.
+Unlike inefficient human-readable data structures, ORT efficiently represents data, making it ideal for large language model (LLM) token optimization and structured data interchange.  
+
+> [!TIP]
+> ORT was inspired by [Token-Oriented Object Notation (TOON)](https://github.com/toon-format/toon) and was created to contribute to the open-source ecosystem and the advancement of LLMs.  
+> Thank you, TOON.
+
+<br>
 
 ## Table of Contents
 
