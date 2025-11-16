@@ -96,7 +96,10 @@ json2ort <input_file> -o <output_file>
 
 <br>
 
-## Installation
+## Installation & Usage
+
+### PLAYGROUND
+[ORT Playground](https://backgwa.kro.kr/ORT-Playground/)
 
 ### CLI
 ```
