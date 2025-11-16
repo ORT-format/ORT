@@ -92,6 +92,11 @@ json2ort <input_file> -o <output_file>
 
 ## Installation
 
+### CLI
+```
+cargo install ort-rs
+```
+
 ### Rust Library
 
 Add to your Cargo.toml:
