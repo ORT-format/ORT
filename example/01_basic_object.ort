@@ -2,3 +2,23 @@ users:age,id,name:
 30,1,John Doe
 25,2,Jane Smith
 35,3,Bob Johnson
+
+# {
+#     "users": [
+#         {
+#             "age": 30,
+#             "id": 1,
+#             "name": "John Doe"
+#         },
+#         {
+#             "age": 25,
+#             "id": 2,
+#             "name": "Jane Smith"
+#         },
+#         {
+#             "age": 35,
+#             "id": 3,
+#             "name": "Bob Johnson"
+#         }
+#     ]
+# }
