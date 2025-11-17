@@ -16,6 +16,7 @@ Unlike inefficient human-readable data structures, ORT efficiently represents da
 - [Command-Line Tools](#command-line-tools)
 - [Installation](#installation)
 - [Package Links](#package-links)
+- [Specification](#specification)
 - [License](#license)
 
 <br>
@@ -105,7 +106,7 @@ json2ort <input_file> -o <output_file>
 ## Installation & Usage
 
 ### PLAYGROUND
-[ORT Playground](https://ort-format.github.io/ORT-Playground/)
+[ORT Playground](https://ort-format.github.io/Playground/)
 
 ### Rust Library
 
@@ -132,6 +133,11 @@ pip install ort-python
 - Crates.io: https://crates.io/crates/ort-rs
 - PyPI: https://pypi.org/project/ort-python/
 - npm: https://www.npmjs.com/package/ort-ts
+
+<br>
+
+## Specification
+To view the ORT specification sheet, go [here](https://github.com/ORT-format/Specification).
 
 <br>
 
